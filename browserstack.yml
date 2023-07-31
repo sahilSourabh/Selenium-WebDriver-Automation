@@ -1,0 +1,16 @@
+userName: sourabhsahil_Pr8WLR
+accessKey: MiZLS2PWS7KseKRcfwzT
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Firefox
+    browserVersion: latest
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1

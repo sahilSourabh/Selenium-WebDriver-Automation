@@ -1,0 +1,96 @@
+00:20:15.812 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+00:20:15.828 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:20:17.006 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:20:17.242 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:21:04.552 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gxpdkmxeatr2sapgttzfhwp711zpkp0tmwbvafwt to view build report, insights, and many more debugging information all at one place!
+
+00:21:05.092 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:21:05.514 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:25:18.801 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+00:25:18.805 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:25:19.069 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:25:19.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:25:47.782 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rwcmcenyg3d4cq49johok5i4xca1yb31xbftyzay to view build report, insights, and many more debugging information all at one place!
+
+00:25:48.468 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:25:48.469 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:27:34.258 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+00:27:34.262 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:27:34.531 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:27:34.541 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:27:57.585 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kiis5let1fq8qtp59k5it4xaiv4nwjprvrctwh0a to view build report, insights, and many more debugging information all at one place!
+
+00:27:57.734 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:27:57.734 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+22:02:14.173 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+22:02:14.177 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:02:14.801 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : S:\Workspace\Dummy-Sel\Dummy-Sel\browserstack.yml
+22:02:14.985 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:02:14.994 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:02:35.750 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/os7ke9tdxayshf8ibd2klg4uamvpoc4aw7hnufqd to view build report, insights, and many more debugging information all at one place!
+
+22:02:35.906 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+22:02:35.907 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+22:03:16.647 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+22:03:16.653 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:03:16.870 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : S:\Workspace\Dummy-Sel\Dummy-Sel\browserstack.yml
+22:03:16.917 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:03:16.927 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:03:40.212 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/w7dvxr3gl6tpv7c2pbqvs70z0lxbbcst0abylt4z to view build report, insights, and many more debugging information all at one place!
+
+22:03:40.353 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+22:03:40.353 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+22:06:23.356 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+22:06:23.360 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:06:23.607 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : S:\Workspace\Dummy-Sel\Dummy-Sel\browserstack.yml
+22:06:23.660 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:06:23.669 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:06:50.648 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/p2vkh6za8glxiwmc7izyv5vvhatwlblucsszizsp to view build report, insights, and many more debugging information all at one place!
+
+22:06:50.782 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+22:06:50.782 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+22:16:13.887 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+22:16:13.892 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:16:14.216 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : S:\Workspace\Dummy-Sel\Dummy-Sel\browserstack.yml
+22:16:14.297 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:16:14.308 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:16:30.138 [TestGoogleMaps-0@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Name failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionName","arguments":{"name":"DummySection31Part2-titleCheckGoogleMap"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, optimalHubUrl: hub-aps.browserstack.com, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G314, safari:platformVersion: 11.6.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 1b0048f226a7112ffabbf9cd3ce..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+22:16:32.746 [titleCheckGoogleMap@0] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"","status":"passed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, optimalHubUrl: hub-aps.browserstack.com, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G314, safari:platformVersion: 11.6.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 1b0048f226a7112ffabbf9cd3ce..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+22:16:36.702 [TestGoogleMaps-1@1] ERROR c.browserstack.utils.UtilityMethods - Mark Session Name failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionName","arguments":{"name":"DummySection31Part2-titleCheckGoogleMap"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.91, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:4545}, networkConnectionEnabled: false, optimalHubUrl: hub-aps.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 501a7d5eca0a78a4f160ef88c9c...}
+22:16:39.002 [titleCheckGoogleMap@1] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"","status":"passed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.91, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:4545}, networkConnectionEnabled: false, optimalHubUrl: hub-aps.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 501a7d5eca0a78a4f160ef88c9c...}
+22:16:43.244 [TestGoogleMaps-2@2] ERROR c.browserstack.utils.UtilityMethods - Mark Session Name failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionName","arguments":{"name":"DummySection31Part2-titleCheckGoogleMap"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.91, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:2001}, networkConnectionEnabled: false, optimalHubUrl: hub-aps.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 9904a042818ca4e1fc25bb9d735...}
+22:16:45.609 [titleCheckGoogleMap@2] ERROR c.browserstack.utils.UtilityMethods - Mark Session Status failed - org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, executeScript {script=browserstack_executor: {"action":"setSessionStatus","arguments":{"reason":"","status":"passed"}}, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.91, chrome: {chromedriverVersion: 114.0.5735.16 (7e1ff058633f..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:2001}, networkConnectionEnabled: false, optimalHubUrl: hub-aps.browserstack.com, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 9904a042818ca4e1fc25bb9d735...}
+22:17:02.624 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/x1d8vhmwrjpanbfi1g5xt9iyeuwfppkrteoyke12 to view build report, insights, and many more debugging information all at one place!
+
+22:17:02.805 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+22:17:02.806 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
