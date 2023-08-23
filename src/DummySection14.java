@@ -41,7 +41,7 @@ public class DummySection14 {
 	public void streamLength()
 	{
 		System.out.println("Names with length>4 : ");
-		Stream.of("Sourabh", "Rahul", "Jae", "Han", "Monty").filter(s -> s.length() > 4)
+		Stream.of("Sourabh", "Rahul", "Jae", "Han", "Monty").filter(s -> s.length()> 4)
 				.forEach(s -> System.out.println(s));
 		
 	}

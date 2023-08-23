@@ -36,8 +36,8 @@ public class DummySection15 {
 		Set<String> windows = driver.getWindowHandles();
 		Iterator<String> it = windows.iterator();
 		String parentId = it.next();
-		String childId = it.next();
-		driver.switchTo().window(childId);
+		//String childId = it.next();
+		//driver.switchTo().window(childId);
 		
 		String courseName = driver.findElements(By.cssSelector("a[href*='https://courses.rahulshettyacademy.com/p']"))
 				.get(1).getText();
@@ -51,7 +51,7 @@ public class DummySection15 {
 		//4.
 		File src = nameBox.getScreenshotAs(OutputType.FILE);
 		//FileUtils.copyFile(src, new File("logo.jpg"));
-		FileUtils.copyFile(src, new File("D:\\Sourabh\\Selenium Automation\\logo.jpg"));
+		FileUtils.copyFile(src, new File(System.getProperty("user.dir")+"\\downloads\\logo.jpg"));
 		
 		//5.
 		System.out.println("Height: "+nameBox.getRect().getDimension().getHeight());

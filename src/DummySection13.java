@@ -17,6 +17,7 @@ public class DummySection13 {
 		
 		
 		ChromeOptions option = new ChromeOptions();
+		
 		// Bypassing the SSL Certification on a web page
 		option.setAcceptInsecureCerts(true);
 		//PROXY
@@ -40,7 +41,8 @@ public class DummySection13 {
 		//TAKE SCREENSHOT
 		TakesScreenshot ss= (TakesScreenshot) driver;
 		File srcFile = ss.getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(srcFile, new File("D:\\Sourabh\\Selenium Automation\\ssfile.jpg"));
+		FileUtils.copyFile(srcFile,
+				new File("S:\\Automation\\Automation related docs\\Selenium Web Automation\\ssfile.jpg"));
 		
 		
 		Thread.sleep(2000);

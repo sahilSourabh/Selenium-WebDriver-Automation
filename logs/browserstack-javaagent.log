@@ -94,3 +94,7 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 
 22:17:02.805 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
 22:17:02.806 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:17:17.543 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+19:19:35.781 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+22:17:26.040 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
+22:18:34.844 [AsyncHttpClient-1-4] INFO  c.b.config.BrowserStackConfig - WARN
