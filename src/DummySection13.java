@@ -19,10 +19,11 @@ public class DummySection13 {
 
 		// Bypassing the SSL Certification on a web page
 		option.setAcceptInsecureCerts(true);
+		
 		// PROXY
-		Proxy proxy = new Proxy();
+		/*Proxy proxy = new Proxy();
 		proxy.setHttpProxy("ipaddress:4444");
-		option.setCapability("proxy", proxy);
+		option.setCapability("proxy", proxy);*/
 
 		// BLOCK POPUP WINDOWS
 		option.setExperimentalOption("excludeSwitches", Arrays.asList("disable-popup-blocking"));
