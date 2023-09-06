@@ -21,7 +21,7 @@ This GitHub repository contains an automation project that utilizes various tool
 
 The project is structured as follows:
 
-- `src/test/java`: Contains the test scripts written in Java using Selenium WebDriver and TestNG.
+- `src`: Contains the test scripts written in Java using Selenium WebDriver and TestNG.
 - `downloads`: Contains the downloaded files.
 - `testng.xml`: The TestNG configuration file for test suite execution.
 - `pom.xml`: The Maven project configuration file.
