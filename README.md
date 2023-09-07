@@ -15,7 +15,6 @@ This GitHub repository contains an automation project that utilizes various tool
 - **Maven**: A build automation tool to manage project dependencies and build processes.
 - **Extent Reports**: A reporting library for generating detailed test reports.
 - **Parallel Execution**: The project supports parallel execution of test cases for faster testing.
-- **Cross-Browser Testing**: Test cases can be executed across multiple web browsers.
 
 ### Project Structure
 
