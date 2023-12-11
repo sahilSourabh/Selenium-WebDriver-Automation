@@ -20,7 +20,7 @@ public class DummySection13BrokenLinks2 {
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/#");
 		SoftAssert a = new SoftAssert();
 		
-		List<WebElement> links=   driver.findElements(By.cssSelector("li[class='gf-li'] a"));
+		List<WebElement> links=   driver.findElements(By.cssSelector(".gf-li a"));
 		
 		for(WebElement link:links )
 		{
