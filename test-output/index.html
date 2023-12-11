@@ -7,7 +7,7 @@
 
     <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
     <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
-    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="testng-reports.js"></script>
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type='text/javascript'>
@@ -21,8 +21,7 @@
      -->
   </head>
 
-  <body>
-    <div class="top-banner-root">
+  <body>    <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
@@ -51,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>S:\Workspace\Dummy-Sel\Dummy-Sel\testng.xml</span>
+                    <span>S:\Workspace\Selenium-WebDriver-Automation\testRunner.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -173,14 +172,14 @@
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">S:\Workspace\Dummy-Sel\Dummy-Sel\testng.xml</span>
+            <span class="header-content">S:\Workspace\Selenium-WebDriver-Automation\testRunner.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
+&lt;suite parallel=&quot;tests&quot; name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; parallel=&quot;tests&quot; name=&quot;Test&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;DummySection14&quot;/&gt;
     &lt;/classes&gt;
@@ -224,26 +223,26 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(4);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'streamOne')
+data.setCell(0, 1, 'StreamDemo')
 data.setCell(0, 2, 'DummySection14')
-data.setCell(0, 3, 11);
+data.setCell(0, 3, 9);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'StreamDemo')
+data.setCell(1, 1, 'streamList')
 data.setCell(1, 2, 'DummySection14')
-data.setCell(1, 3, 9);
+data.setCell(1, 3, 8);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'streamList')
+data.setCell(2, 1, 'streamOne')
 data.setCell(2, 2, 'DummySection14')
-data.setCell(2, 3, 6);
+data.setCell(2, 3, 7);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'streamLength')
 data.setCell(3, 2, 'DummySection14')
-data.setCell(3, 3, 2);
+data.setCell(3, 3, 3);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 28 ms</span>
+              <span class="suite-total-time">Total running time: 78 ms</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -276,15 +275,15 @@ return data;
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">streamLength</span>
-                <span class="method-start">12 ms</span>
+                <span class="method-start">13 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">streamList</span>
-                <span class="method-start">16 ms</span>
+                <span class="method-start">20 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">streamOne</span>
-                <span class="method-start">23 ms</span>
+                <span class="method-start">30 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -12,7 +12,7 @@ public class DummySection30 {
 		
 		String directory = System.getProperty("user.dir");
 		
-		//Setting up Default Downlaod Directory
+		//Setting up Default Download Directory
 		ChromeOptions options = new ChromeOptions();
 		HashMap<String,Object> prefs = new HashMap<String,Object>();
 		prefs.put("download.default_directory", directory+"\\downloads");
